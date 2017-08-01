@@ -1,4 +1,4 @@
-import phantomjs from "phantomjs-prebuilt";
+import phantomjs from "phantomjs-prebuilt2";
 import {spawn} from "child_process";
 import winston from "winston";
 import os from "os";

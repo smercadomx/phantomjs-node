@@ -1,6 +1,6 @@
 import proxyquire from "proxyquire";
 import child_process from "child_process";
-import phantomjs from "phantomjs-prebuilt";
+import phantomjs from "phantomjs-prebuilt2";
 import Phantom from "../phantom";
 import path from "path";
 import Page from "../page";
